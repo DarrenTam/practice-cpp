@@ -1,3 +1,0 @@
-/Users/darren/CLionProjects/parctice-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/darren/CLionProjects/parctice-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/darren/CLionProjects/parctice-cpp/cmake-build-debug/CMakeFiles/parctice_cpp.dir
