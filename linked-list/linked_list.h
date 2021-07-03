@@ -10,9 +10,9 @@
 
 class LinkedList {
 public:
-    LinkedList(std::shared_ptr<Node> node) :  mHead(std::move(node)){};
-
-    ~LinkedList();
+    explicit LinkedList(std::shared_ptr<Node> node) :  mHead(std::move(node)){};
+    LinkedList() = delete;
+    ~LinkedList() = default;
 
     int Size() const;
 

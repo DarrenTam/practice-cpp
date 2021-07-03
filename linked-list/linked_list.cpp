@@ -91,14 +91,6 @@ void LinkedList::Erase(int index) {
     }
 }
 
-int LinkedList::ValueNFromEnd(int index) {
-    auto current = mHead;
-    for (int i = 0; i < index; ++i) {
-
-    }
-    return 0;
-}
-
 void LinkedList::Reverse() {
     auto current = mHead;
     std::shared_ptr<Node> prev = nullptr;
@@ -135,4 +127,4 @@ void LinkedList::PrintAllValue() {
     std::cout << value->GetData() << std::endl;
 }
 
-LinkedList::~LinkedList() = default;
+
