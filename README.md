@@ -3,8 +3,8 @@
 ![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)
 ## Table of Contents
 
-- [Background](#background)
-- [DataStructure](#Data Structure)
+- [Background](#Background)
+- [Data Structure](#Data Structure)
 - [Algorithm](#Algorithm)
 
 ## Background
