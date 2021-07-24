@@ -4,7 +4,7 @@
 ## Table of Contents
 
 - [Background](#background)
-- [Data Structure](#Data Structure)
+- [DataStructure](#Data Structure)
 - [Algorithm](#Algorithm)
 
 ## Background
