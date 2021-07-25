@@ -16,6 +16,7 @@ Just a personal pratice repo, the code might be buggy and ugly, will trying to i
 - Linked list
 - Array 
 - Queue 
+- HashTable
 
 ## Algorithm
 
