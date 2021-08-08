@@ -21,6 +21,7 @@ Just a personal pratice repo, the code might be buggy and ugly, will trying to i
 ## Algorithm
 
 - Merge sort
+- Binary Search
 
 ## Maintainers
 [@Darrentam](https://github.com/Darrentam).
